@@ -1,4 +1,4 @@
-# airbnb-eda
+#  demographics-eda-visualization-app
 This Shiny app serves as a tool for companies to dissect and visualize customer 
         demographic data, centering around their purchasing behaviors. Through an array of visualizations 
         encompassing bar charts, pie charts, maps, and cross-tabulations, users can delve into the relationships 
@@ -15,3 +15,4 @@ This Shiny app serves as a tool for companies to dissect and visualize customer
         assist in users deciphering intricate patterns and correlations and facilitating informed decision-making. 
         Ultimately, this tool aims to facilitate a comprehensive understanding of customer demographics, aiding 
         companies in strategizing, marketing, and optimizing their business approaches based on data-driven insights.
+### Link: https://adaorannadi.shinyapps.io/Nnadi_Adaora_Final_Project/
