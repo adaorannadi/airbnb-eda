@@ -3,4 +3,4 @@
         
 ### Link: https://adaorannadi.shinyapps.io/Nnadi_Adaora_Final_Project/
 
-# Please allow about 30 seconds for the website to properly load.
+# Please allow about 30 seconds for the website to load properly.
