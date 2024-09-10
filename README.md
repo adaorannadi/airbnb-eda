@@ -16,3 +16,5 @@ This Shiny app serves as a tool for companies to dissect and visualize customer
         Ultimately, this tool aims to facilitate a comprehensive understanding of customer demographics, aiding 
         companies in strategizing, marketing, and optimizing their business approaches based on data-driven insights.
 ### Link: https://adaorannadi.shinyapps.io/Nnadi_Adaora_Final_Project/
+
+# Please allow about 30 seconds for the website to properly load.
